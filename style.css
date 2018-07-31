@@ -1,0 +1,30 @@
+body {
+    background-image: url("images/background.png");
+
+}
+
+
+
+.container {
+    background-color: #ffffff;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+
+.projectName {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+
+.photoRow {
+    margin-bottom: 20px;
+}
